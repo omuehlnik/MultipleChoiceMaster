@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Test xmlns="http://www.multiplechoicemaster.com/test">
+  <Testname xmlns="">test2</Testname>
+  <Author xmlns="">OM</Author>
+  <Source xmlns="">none</Source>
+  <Copyright xmlns="">true</Copyright>
+  <Duration xmlns="">90</Duration>
+  <Language xmlns="">DE</Language>
+  <Description xmlns="">11111111
+222222222222
+444444444444444
+55555555555555555</Description>
+</Test>
